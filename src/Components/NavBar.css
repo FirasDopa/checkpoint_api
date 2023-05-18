@@ -1,0 +1,18 @@
+.app-link {
+    text-decoration: none !important;
+    color: #fff !important;
+    margin: 10px;
+}
+
+.app-link:hover {
+    color: #17a2b8;
+}
+
+.activ-link {
+    color: rgb(199, 110, 8) ;
+}
+
+.btn {
+    float: right;
+    margin-left: 80%;
+}
